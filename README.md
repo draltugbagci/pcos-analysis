@@ -1,7 +1,7 @@
 # PCOS Prediction Project
 
 ## 📌 Project Overview
-This project analyzes and models the PCOS dataset.
+This project analyzes and models for the PCOS dataset.
 
 ## 📂 Dataset
 - Source: GitHub PCOS Dataset
