@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+venv/
+env/
+.conda/
+.env
+
+# MacOS
+.DS_Store
+
+# Data (raw veri commit edilmesin istiyorsan)
+data/raw/
+
+# Model files
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
